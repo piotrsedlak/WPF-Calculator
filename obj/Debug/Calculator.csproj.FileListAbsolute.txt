@@ -1,0 +1,16 @@
+C:\Users\Peter\Downloads\Calculator (1)\bin\Debug\Calculator.exe.config
+C:\Users\Peter\Downloads\Calculator (1)\bin\Debug\Calculator.exe
+C:\Users\Peter\Downloads\Calculator (1)\bin\Debug\Calculator.pdb
+C:\Users\Peter\Downloads\Calculator (1)\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\Peter\Downloads\Calculator (1)\obj\Debug\MainWindow.g.cs
+C:\Users\Peter\Downloads\Calculator (1)\obj\Debug\App.g.cs
+C:\Users\Peter\Downloads\Calculator (1)\obj\Debug\Calculator_MarkupCompile.cache
+C:\Users\Peter\Downloads\Calculator (1)\obj\Debug\Calculator_MarkupCompile.lref
+C:\Users\Peter\Downloads\Calculator (1)\obj\Debug\App.baml
+C:\Users\Peter\Downloads\Calculator (1)\obj\Debug\MainWindow.baml
+C:\Users\Peter\Downloads\Calculator (1)\obj\Debug\Calculator.g.resources
+C:\Users\Peter\Downloads\Calculator (1)\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Peter\Downloads\Calculator (1)\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Peter\Downloads\Calculator (1)\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Peter\Downloads\Calculator (1)\obj\Debug\Calculator.exe
+C:\Users\Peter\Downloads\Calculator (1)\obj\Debug\Calculator.pdb
